@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1757273920.70784 "c:/Users/aguay/OneDrive/Escritorio/Sepic/Latex/documento.tex" "build/documento.pdf" "documento" 1757273923.94989 0
+["lualatex"] 1757275666.78092 "c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex" "build/documento.pdf" "documento" 1757275669.989 0
   "C:/Users/aguay/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1757217423 411073 3989332384b49365add4e5a991d62bc5 ""
   "C:/Users/aguay/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1754457084 127337 af1008657dd09ad7a7d1a8e256868059 ""
   "C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -304,11 +304,11 @@
   "C:/Users/aguay/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1740607740 7918 4272855a25780b80472f3b58edd95e33 ""
   "C:/Users/aguay/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1740607740 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "C:/Users/aguay/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1757207921 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "build/documento.aux" 1757273923 1582 148a266dcbe1a8477006e02a9353ab73 "lualatex"
-  "build/documento.out" 1757273923 1118 a550b1fbe9ab9defe86f81ea8d4e9306 "lualatex"
-  "c:/Users/aguay/OneDrive/Escritorio/Sepic/Latex/documento.tex" 1757217416 554 3a6febcb03ff3370b50663ff0fb03de0 ""
-  "documento.tex" 1757217416 554 3a6febcb03ff3370b50663ff0fb03de0 ""
-  "secciones/analisis_conv.tex" 1757273920 8311 5b4e8d78e700fe99fb00b743fdefc1b8 ""
+  "build/documento.aux" 1757275669 1582 148a266dcbe1a8477006e02a9353ab73 "lualatex"
+  "build/documento.out" 1757275669 1118 a550b1fbe9ab9defe86f81ea8d4e9306 "lualatex"
+  "c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex" 1757275521 554 3a6febcb03ff3370b50663ff0fb03de0 ""
+  "documento.tex" 1757275521 554 3a6febcb03ff3370b50663ff0fb03de0 ""
+  "secciones/analisis_conv.tex" 1757275518 8311 5b4e8d78e700fe99fb00b743fdefc1b8 ""
   (generated)
   "build/documento.aux"
   "build/documento.log"

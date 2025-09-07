@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.9.6)  7 SEP 2025 16:38
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.9.6)  7 SEP 2025 17:07
  system commands enabled.
  file:line:error style messages enabled.
-**c:/Users/aguay/OneDrive/Escritorio/Sepic/Latex/documento.tex
-(c:/Users/aguay/OneDrive/Escritorio/Sepic/Latex/documento.tex
+**c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex
+(c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -1022,8 +1022,9 @@ Package: cancel 2013/04/12 v2.2 Cancel math terms
 tex.def
 File: l3backend-luatex.def 2025-06-09 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count342
-Inserting `l3color' in `luaotfload.parse_color'.) (c:/Users/aguay/OneDrive/Escr
-itorio/Sepic/Latex/build/documento.aux
+Inserting `l3color' in `luaotfload.parse_color'.)
+(c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/build/documento.
+aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
@@ -1089,8 +1090,11 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
 Package hyperref Info: Link coloring OFF on input line 21.
-(c:/Users/aguay/OneDrive/Escritorio/Sepic/Latex/build/documento.out)
-(c:/Users/aguay/OneDrive/Escritorio/Sepic/Latex/build/documento.out)
+
+(c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/build/documento.
+out)
+(c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/build/documento.
+out)
 \@outlinefile=\write4
 
 \openout4 = documento.out
@@ -1163,7 +1167,9 @@ Missing character: There is no ] (U+005D) in font nullfont!
 
 [4])
 
-[5] (c:/Users/aguay/OneDrive/Escritorio/Sepic/Latex/build/documento.aux
+[5]
+(c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/build/documento.
+aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1185,7 +1191,7 @@ Here is how much of LuaTeX's memory you used:
 
  79418 multiletter control sequences out of 65536+600000
  62 fonts using 3804151 bytes
- 84i,23n,87p,774b,1043s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,23n,87p,789b,1043s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/U
 sers/aguay/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.p
 fb><C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
