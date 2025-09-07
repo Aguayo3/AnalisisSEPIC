@@ -176,6 +176,7 @@ Aplicando el mismo método para $\mathbf{C_2}$, se tiene que:
     \frac{\Delta V_{C_o}}{V_o}&= \frac{D}{C_2f}\frac{1}{R}
 \end{align*}
 
+\newpage
 \subsection{Paso 6(Rizado de corriente)}
 
 Utilizando el balance de potencia se obtiene la siguiente expresión:
@@ -193,5 +194,44 @@ Ahora bien para calcular el rizado del primer inductor se aplica la definición 
     &=\frac{\frac{(1-D)^{2}}{D^{\cancel{2}}}v_o^{\cancel{2}} \cancel{D}T}{\cancel{v_o} I_o L_1}=\frac{(1-D)^2v_o}{D I_o L_1 f} \\ 
     &=\frac{(1-D)^2\cancel{v_o}}{D \frac{\cancel{v_o}}{R} L_1 f} \\ 
     &=\frac{(1-D)^2 R}{D  L_1 f} \\ 
+\end{align*}
+
+Se aplica el mismo método para el segundo inductor:
+\begin{align*}
+    \frac{\Delta i_{L_2}}{I_{L_2}}&=\frac{\frac{v_i DT}{L_2}}{\frac{v_i}{v_o}I_i} \\ 
+    &=\frac{\cancel{v_i} v_o DT}{\cancel{v_i} I_i L_2} \\ 
+    &=\frac{DT}{L_2}\frac{v_o}{I_i} \Big/ I_i=\frac{D}{(1-D)}I_o \\ 
+    &=\frac{DT}{L_2}\frac{v_o}{I_o}\frac{(1-D)}{D} \\ 
+    &=\frac{\cancel{D}T}{L_2}\frac{v_o}{I_o}\frac{(1-D)}{\cancel{D}} \Big/ R=\frac{v_o}{I_o} \\ 
+    &=\frac{(1-D)R}{L_2 f}
+\end{align*}
+
+\clearpage
+\subsection{Resumen de ecuaciones}
+\begin{align*}
+    \frac{V_o}{V_i}=\frac{D}{(1-D)} ; V_{C_1}=V_i
+\end{align*}
+\subsubsection*{Ripple de capacitores}
+\begin{align*}
+    \frac{\Delta V_{C_1}}{V_i}&=\frac{D^2}{C_1 f R (1-D)} \\ 
+    \frac{\Delta V_{o}}{V_o}&=\frac{D}{C_2 f R}
+\end{align*}
+
+\subsubsection*{Ripple de inductores}
+\begin{align*}
+    \frac{\Delta i_{L_1}}{I_{L_1}}&=\frac{(1-D)^2R}{D L_1 f} \\ 
+    \frac{\Delta i_{L_2}}{I_{L_2}}&=\frac{(1-D)R}{L_2 f} \\ 
+\end{align*}
+\subsubsection*{Corrientes en inductores}
+\begin{align*}
+    I_{L_{1max}}&=v_o\left(\frac{D}{(1-D)}\frac{1}{R}+\frac{(1-D)}{2 L_1 f}\right) \\
+    I_{L_{1min}}&=v_o\left(\frac{D}{(1-D)}\frac{1}{R}-\frac{(1-D)}{2 L_1 f}\right) \\ 
+    I_{L_{2max}}&=v_o\left(\frac{1}{R}+\frac{(1-D)}{2L_2f}\right) \\ 
+    I_{L_{2min}}&=v_o\left(\frac{1}{R}-\frac{(1-D)}{2L_2f}\right)
+\end{align*}
+\subsubsection*{Inductancias mínimas}
+\begin{align*}
+    L_{1_{min}}&=\frac{R(1-D)^2}{2f D} \\ 
+    L_{2_{min}}&=\frac{(1-D)R}{2 f}
 \end{align*}
 
