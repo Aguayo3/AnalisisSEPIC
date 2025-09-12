@@ -1,8 +1,0 @@
-* C:\Users\Lenovo\Documents\GitHub\AnalisisSEPIC\Algop\Draft1.asc
-R1 N001 N002 6
-V1 N001 0 PULSE(0 12 0 1n 1n {D*T} {T})
-C1 N002 0 330p
-.param D={.5} f=60e3 T={1/f}
-.tran 0 {T} 0 1n
-.backanno
-.end
