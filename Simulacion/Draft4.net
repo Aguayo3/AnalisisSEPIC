@@ -1,31 +1,24 @@
-* C:\Users\Lenovo\Documents\GitHub\AnalisisSEPIC\Simulacion\Draft4.asc
-C1 N002 N003 10µ
-C2 Vo P001 54µ
-R1 Vo 0 100
+* C:\Users\aguay\OneDrive\Documentos\GitHub\AnalisisSEPIC\Simulacion\Draft4.asc
+C1 N001 N002 10µ
+C2 Vo N003 54µ
+R1 Vo 0 200
 V1 Vi 0 24
 V2 pwm 0 PULSE(0 1 0 1n 1n {D*T} {T})
-S1 N002 0 pwm 0 MySW
+S1 N001 0 pwm 0 MySW
 L1 Vi N001 3m
-L2 0 N003 3m
-D1 N003 Vo MyD
-R3 N002 N001 1
-R2 P001 0 0.5
+L2 0 N002 3m
+D1 N002 Vo MyD
+R2 N003 0 0.5
 .model D D
-.lib C:\Users\Lenovo\AppData\Local\LTspice\lib\cmp\standard.dio
+.lib C:\Users\aguay\AppData\Local\LTspice\lib\cmp\standard.dio
 .tran 1
-.param D=.5
+.param D=.33
 .param f=60e3
 .param T {1/f}
 .model MyD D (Ron=.00001 Roff=1Meg Vfwd=0.001)
 .model MySW SW (Ron=.01 Roff=1Meg Vt=.001)
-.meas TRAN IL1max MAX I(L1) FROM 0.98 TO {0.98+T}
-.meas tran IL1min MIN I(L1) FROM=0.98 TO={0.98+T}
-.meas tran Iriple PARAM IL1max-IL1min
-.meas TRAN IL2max MAX I(L2) FROM 0.98 TO {0.98+T}
-.meas tran IL2min MIN I(L2) FROM=0.98 TO={0.98+T}
-.meas tran IripleL2 PARAM IL2max-IL2min
-.meas tran Vmax MAX V(Vo) From 0.98 To {0.98+T}
-.meas tran Vmin MIN V(Vo) From 0.98 To {0.98+T}
-.meas tran deltaVo Param Vmax-Vmin
+.meas TRAN Vomax MAX V(Vo) FROM 0.98 TO {0.98+T}
+.meas TRAN Vomin MIN V(Vo) FROM 0.98 TO {0.98+T}
+.meas TRAN DeltaVo PARAM Vomax-Vomin
 .backanno
 .end
