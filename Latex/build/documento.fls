@@ -611,6 +611,8 @@ INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri1
 INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT .\secciones\dinamica.tex
+INPUT .\secciones\dinamica.tex
 INPUT c:\Users\Lenovo\Documents\GitHub\AnalisisSEPIC\Latex\build\documento.aux
 INPUT c:\Users\Lenovo\Documents\GitHub\AnalisisSEPIC\Latex\build\documento.aux
 INPUT C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb

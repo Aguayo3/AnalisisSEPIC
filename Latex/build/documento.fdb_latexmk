@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1757285075.3794 "c:/Users/Lenovo/Documents/GitHub/AnalisisSEPIC/Latex/documento.tex" "build/documento.pdf" "documento" 1757285079.86033 0
+["lualatex"] 1758817047.40388 "c:/Users/Lenovo/Documents/GitHub/AnalisisSEPIC/Latex/documento.tex" "build/documento.pdf" "documento" 1758817069.49196 0
   "C:/Users/Lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1749102717 277881 a83e6737aaa06e92514df45c41256451 ""
   "C:/Users/Lenovo/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1728064020 127338 32bf64b30d18d194e9b18b30b5a995aa ""
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -308,11 +308,12 @@
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1709104755 7917 cebc6454abe34f2fe1c1248f8b2453da ""
   "C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1709104755 13565 50482dad4c221a79dbdbb982122baf8c ""
   "C:/Users/Lenovo/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1713161412 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "build/documento.aux" 1757285079 1678 264d8c10fd9892647dde5b2b898a9109 "lualatex"
-  "build/documento.out" 1757285079 1286 6f2fd3d6176130bfc4cd8421ca6cfc98 "lualatex"
-  "c:/Users/Lenovo/Documents/GitHub/AnalisisSEPIC/Latex/documento.tex" 1757281358 554 3a6febcb03ff3370b50663ff0fb03de0 ""
-  "documento.tex" 1757281358 554 3a6febcb03ff3370b50663ff0fb03de0 ""
-  "secciones/analisis_conv.tex" 1757285074 9855 34608cc2b29d552b5cd3732bf4de526c ""
+  "build/documento.aux" 1758817067 1678 3bf6da3377c38768d35fae22db40aca1 "lualatex"
+  "build/documento.out" 1758817068 1286 6f2fd3d6176130bfc4cd8421ca6cfc98 "lualatex"
+  "c:/Users/Lenovo/Documents/GitHub/AnalisisSEPIC/Latex/documento.tex" 1758768178 596 45058c7cf7a23734f4ddc5ae71f665d3 ""
+  "documento.tex" 1758768178 596 45058c7cf7a23734f4ddc5ae71f665d3 ""
+  "secciones/analisis_conv.tex" 1757285130 9855 34608cc2b29d552b5cd3732bf4de526c ""
+  "secciones/dinamica.tex" 1758817041 2673 de7d2758035e27df4ee7f4d84c54414d ""
   (generated)
   "build/documento.aux"
   "build/documento.log"
