@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.10.1)  1 OCT 2025 21:11
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.10.1)  1 OCT 2025 21:32
  system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex
@@ -1171,11 +1171,13 @@ Missing character: There is no ] (U+005D) in font nullfont!
 
 [6
 
-] (./secciones/dinamica.tex)
+] (./secciones/dinamica.tex
 
 [7
 
-]
+])
+
+[8]
 (c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/build/documento.
 aux
 LaTeX Info: Redefining \. on input line 11.
@@ -1190,12 +1192,12 @@ Package rerunfilecheck Info: File `documento.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51991 strings out of 470117
+ 51992 strings out of 470117
  100000,2373549 words of node,token memory allocated
  601 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 37 attribute, 55 glue_spec
 , 20 attribute_list, 2 write nodes
-   avail lists: 1:1,2:5435,3:2591,4:33,5:481,6:36,7:6868,8:63,9:2032,10:5,11:271
+   avail lists: 1:1,2:5435,3:2591,4:33,5:481,6:36,7:6868,8:63,9:2234,10:5,11:271
 
  79425 multiletter control sequences out of 65536+600000
  62 fonts using 3804151 bytes
@@ -1220,9 +1222,9 @@ e10.pfb><C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx
 pfb><C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pf
 b><C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
 <C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on documento.pdf (7 pages, 289683 bytes).
+Output written on documento.pdf (8 pages, 291986 bytes).
 
-PDF statistics: 162 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 131072)
+PDF statistics: 166 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 131072)
  88 words of extra memory for PDF output out of 10000 (max. 100000000)
 

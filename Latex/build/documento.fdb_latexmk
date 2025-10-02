@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1759363917.8097 "c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex" "build/documento.pdf" "documento" 1759363921.13366 0
+["lualatex"] 1759365122.57258 "c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex" "build/documento.pdf" "documento" 1759365126.11241 0
   "C:/Users/aguay/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1757217423 411073 3989332384b49365add4e5a991d62bc5 ""
   "C:/Users/aguay/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1754457084 127337 af1008657dd09ad7a7d1a8e256868059 ""
   "C:/Users/aguay/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -304,12 +304,12 @@
   "C:/Users/aguay/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1740607740 7918 4272855a25780b80472f3b58edd95e33 ""
   "C:/Users/aguay/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1740607740 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "C:/Users/aguay/AppData/Roaming/MiKTeX/tex/generic/config/language.dat" 1757207921 2269 c2be9efecb8e53facf8213ae101f16af ""
-  "build/documento.aux" 1759363920 1816 2a6d9e6fac0928524cc0aaa92d3d3cbc "lualatex"
-  "build/documento.out" 1759363920 1372 613363257c54245fe78b3f64d64e0ec1 "lualatex"
+  "build/documento.aux" 1759365125 1816 9577be019b2ad281c0c7bfb2bc3d6aa4 "lualatex"
+  "build/documento.out" 1759365125 1372 613363257c54245fe78b3f64d64e0ec1 "lualatex"
   "c:/Users/aguay/OneDrive/Documentos/GitHub/AnalisisSEPIC/Latex/documento.tex" 1759363608 596 45058c7cf7a23734f4ddc5ae71f665d3 ""
   "documento.tex" 1759363608 596 45058c7cf7a23734f4ddc5ae71f665d3 ""
   "secciones/analisis_conv.tex" 1757377517 9855 34608cc2b29d552b5cd3732bf4de526c ""
-  "secciones/dinamica.tex" 1759363667 2630 874f0471a8512f0957621ec3e4535ab5 ""
+  "secciones/dinamica.tex" 1759365121 3082 c808b60c821e05f727ac7b6f0340e4d4 ""
   (generated)
   "build/documento.aux"
   "build/documento.log"
